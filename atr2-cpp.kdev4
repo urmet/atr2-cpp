@@ -1,0 +1,4 @@
+[Project]
+Name=atr2-cpp
+     Manager=KDevCMakeManager
+             VersionControl=kdevgit
